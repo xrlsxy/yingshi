@@ -1,0 +1,126 @@
+{
+  "tbl_site": [
+    {
+      "key": "樱花资源",
+      "name": "樱花资源",
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+      "download": "",
+      "jiexiUrl": "",
+      "group": "默认",
+      "status": true,
+      "isActive": true,
+      "type": 1,
+      "id": "18"
+    },
+    {
+      "key": "红牛资源",
+      "name": "红牛资源",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "download": "",
+      "jiexiUrl": "",
+      "group": "默认",
+      "status": true,
+      "isActive": true,
+      "type": 1,
+      "id": "22"
+    },
+    {
+      "name": "U酷资源",
+      "api": "https://api.ukuapi.com/api.php/provide/vod/?ac=list",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "id": "1d4c9364-ddac-4096-917c-9cb5d0afe2e8"
+    },
+    {
+      "name": "虎牙资源",
+      "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "id": "1fab2907-7a0f-4b66-a1e0-879c1a8bf859"
+    },
+    {
+      "name": "滴滴资源",
+      "api": "https://api.ddapi.cc/api.php/provide/vod/?ac=list",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "id": "26462f1a-ec20-480e-b331-4400624bb030"
+    },
+    {
+      "name": "金鹰云资源",
+      "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "id": "e7a122f6-5f28-4e18-afc6-3d78c201b561"
+    },
+    {
+      "name": "乐播资源",
+      "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 0,
+      "ext": "",
+      "categories": "",
+      "id": "88575fc3-9715-4626-aa51-32e7b2d1641f",
+      "resource": 266219
+    },
+    {
+      "name": "155资源",
+      "api": "https://155api.com/api.php/provide/vod/?ac=list",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "id": "8a051921-80bf-4219-9a51-758a8e7bc5a2"
+    },
+    {
+      "name": "旺旺资源",
+      "api": "https://api.wwzy.tv/api.php/provide/vod/at/xml/?ac=list",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 0,
+      "ext": "",
+      "categories": "",
+      "id": "e6149471-3145-471a-b3e4-ed38fd8315c5"
+    },
+    {
+      "name": "金鹰资源",
+      "api": "https://jyzyapi.com/provide/vod/at/xml/",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 0,
+      "ext": "",
+      "categories": "",
+      "id": "e51047c4-0741-44b9-9507-017ad1cc098e",
+      "resource": 82514
+    }
+  ]
+}
